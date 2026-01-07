@@ -1,1 +1,3 @@
-# SWIGGY_DATA_ANALYSIS
+# SWIGGY_SALES DATA_ANALYSIS
+Project Description: This project involves comprehensive use of SQL for data validation and cleaning, Star schema Modelling, and gaining key business insights. The data used is from swiggy. The dataset contains sales data from January 2025 to august 2025 (3 quaters) and deatils like Transaction IDs, specific dish names, quantities,Item prices, total order values, and revenue figures, Delivery locations across major Indian states and cities,and Customer ratings, which indiacates differnt metrics like financial, geographical and performance.
+Work Flow: Data Cleaning and validation(Importing data, null checks, Duplicate removal), Dimensional Modeling(Star schema), Data insertion,Insights Generation(KPIs, Location analysis,Customer spending Segment).
